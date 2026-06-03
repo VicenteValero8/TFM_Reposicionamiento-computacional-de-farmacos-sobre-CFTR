@@ -1,4 +1,4 @@
-# TFM_Reposicionamiento-computacional-de-f-rmacos-sobre-CFTR
+# TFM_Reposicionamiento-computacional-de-farmacos-sobre-CFTR
 
 Pipeline integrado de **PPI + docking molecular + QSAR** para la priorización de fármacos aprobados como candidatos a reposicionamiento sobre la proteína CFTR (fibrosis quística), con foco en la mutación ΔF508.
 
