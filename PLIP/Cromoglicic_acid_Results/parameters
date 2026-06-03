@@ -1,0 +1,7 @@
+Date: Mon 18 May 2026 20:32:48 
+Ligand: O=C(O)c1cc(=O)c2c(OCC(O)COc3cccc4oc(C(=O)O)cc(=O)c34)cccc2o1
+Method: Vina
+Target: EXP_6MSM_without_Gef.pdb
+Sampling exhaustivity: 16
+Box size: 25 25 25
+Box center: 162.0 159.0 109.0

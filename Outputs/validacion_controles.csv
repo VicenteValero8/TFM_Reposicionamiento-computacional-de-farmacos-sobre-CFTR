@@ -1,0 +1,16 @@
+nombre,grupo,hub_diana,pIC50_pred,tanimoto_max,confianza_prediccion,dock_media
+Bumetanide,Candidato,CFTR,5.906,0.27,Media (zona marginal),-7.178
+Glyburide,Candidato,CFTR,5.768,0.333,Media (zona marginal),-9.894
+Ibuprofen,Candidato,CFTR,5.489,0.312,Media (zona marginal),-6.43
+Cromoglicic_acid,Candidato,HSP90AA1,6.39,0.233,Media (zona marginal),-9.336
+Fostamatinib,Candidato,PRKACA,5.746,0.229,Media (zona marginal),-8.895
+Dasatinib,Candidato,HSPA8,5.508,0.272,Media (zona marginal),-9.186
+Artenimol,Candidato,HSPA8,5.793,0.298,Media (zona marginal),-6.75
+Ivacaftor,Control (+),CFTR,7.532,0.88,Alta (dentro del dominio),-9.572
+Lumacaftor,Control (+),CFTR,5.618,1.0,Alta (dentro del dominio),-10.534
+Tezacaftor,Control (+),CFTR,6.26,0.73,Alta (dentro del dominio),-10.19
+Elexacaftor,Control (+),CFTR,6.714,0.576,Alta (dentro del dominio),-9.436
+Paracetamol,Control (-),Ninguna,5.723,0.341,Media (zona marginal),-5.886
+Aspirina,Control (-),Ninguna,5.726,0.435,Alta (dentro del dominio),-5.566
+Metformina,Control (-),Ninguna,5.731,0.163,Baja (fuera del dominio),-5.533
+R406,Metabolito,PRKACA,5.568,0.254,Media (zona marginal),-9.239
